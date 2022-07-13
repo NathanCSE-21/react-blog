@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.db3e11d1.css",
+    "main.js": "/react-blog/static/js/main.d28bce13.js",
+    "index.html": "/react-blog/index.html",
+    "main.db3e11d1.css.map": "/react-blog/static/css/main.db3e11d1.css.map",
+    "main.d28bce13.js.map": "/react-blog/static/js/main.d28bce13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3e11d1.css",
+    "static/js/main.d28bce13.js"
+  ]
+}
